@@ -282,7 +282,7 @@
   {
     "id": 7236822,
     "name": "km7dev",
-    "badge": 1
+    "badge": 2
   },
   {
     "id": 8369,
@@ -314,11 +314,11 @@
     "name": "LimeGradient",
     "badge": 2
   },
-	{
-		"id": 0,
-		"name": "DevCmb",
-		"badge": 1
-	},
+  {
+    "id": 0,
+    "name": "DevCmb",
+    "badge": 1
+  },
   {
     "id": 1688850,
     "name": "iAndyHD3",
@@ -332,7 +332,7 @@
   {
     "id": 7121414,
     "name": "SMJS",
-    "badge": 2
+    "badge": 3
   },
   {
     "id": 11999686,
@@ -612,7 +612,7 @@
   {
     "id": 23792483,
     "name": "Beat",
-    "badge": 1
+    "badge": 2
   },
   {
     "id": 12282778,
