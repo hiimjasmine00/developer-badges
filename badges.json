@@ -32,7 +32,7 @@
   {
     "id": 6253758,
     "name": "Firee",
-    "badge": 3
+    "badge": 4
   },
   {
     "id": 7026949,
@@ -192,7 +192,7 @@
   {
     "id": 89279,
     "name": "Sabe",
-    "badge": 1
+    "badge": 2
   },
   {
     "id": 13351341,
@@ -787,6 +787,16 @@
   {
     "id": 24363304,
     "name": "noxygalaxy",
+    "badge": 1
+  },
+  {
+    "id": 16565069,
+    "name": "Ryder7223",
+    "badge": 1
+  },
+  {
+    "id": 20906960,
+    "name": "SupKittyMeow",
     "badge": 1
   }
 ]
